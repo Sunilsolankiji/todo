@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_todo=self.webpackChunkmy_todo||[]).push([[568],{1568:(e,s,t)=>{t.r(s),t.d(s,{default:()=>c});var a=t(184);const c=function(){return(0,a.jsx)(a.Fragment,{children:(0,a.jsx)("div",{className:"custom-loader"})})}}}]);
+//# sourceMappingURL=568.ca467dbb.chunk.js.map
