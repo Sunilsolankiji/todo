@@ -1,0 +1,25 @@
+.todo-item {
+  display: flex;
+  gap: 15px;
+  padding: 15px;
+  background-color: #f8f9fe !important;
+  align-items: center;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.todo-item:hover {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.todo-item .name {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.todo-item .desc {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-wrap: nowrap;
+}
